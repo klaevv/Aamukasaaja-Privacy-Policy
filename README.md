@@ -1,4 +1,4 @@
-## Aamukasaaja Privacy Policy
+## About the App
 
 Aamukasaaja is an Ad Supported app. This SERVICE is provided at no cost and is intended to be used as is.
 
