@@ -12,7 +12,7 @@ For a better experience, while using the Service, you could be required to provi
 
 The app uses third party services that may collect information used to identify you.
 
-### Link to privacy policy of third party service providers used by the app
+### Third party service providers
 
 - [Firebase Analytics](https://firebase.google.com/support/privacy/)
 - [Crashlytics](https://docs.fabric.io/apple/fabric/data-privacy.html)
